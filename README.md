@@ -1,0 +1,1 @@
+From the quickstart MCP server tutorial: https://modelcontextprotocol.io/quickstart/server
